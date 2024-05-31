@@ -10,4 +10,5 @@
 
 <img width="500" alt="스크린샷 2024-05-31 17 39 59" src="https://github.com/nanac0n/Symmetric-Crypto-Socket/assets/95338133/230d40ba-fa36-46bb-8dd9-ab09c9aeaaa0">
 <img width="500" alt="스크린샷 2024-05-31 17 40 11" src="https://github.com/nanac0n/Symmetric-Crypto-Socket/assets/95338133/ed16af6e-6994-47fa-b826-b84a0ea4a2ab">
+<br>
 Server.java 실행화면 (좌), Client.java 실행화면 (우)
